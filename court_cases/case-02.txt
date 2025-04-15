@@ -1,8 +1,8 @@
-State of California v. Jane Smith
+Estado de California contra Jane Smith
 
-Charge: Identity Theft and Fraud
-Summary:
-Background: Jane Smith, a former bank employee, accessed the personal information of over 150 customers and used this data to open fraudulent credit accounts, resulting in over $750,000 in unauthorized charges.
-Legal Arguments: The prosecution presented evidence showing Smith’s direct access to the victims' information and her involvement in transferring funds to her own accounts. The defense argued that Smith was coerced by an unknown third party and was not the mastermind behind the operation.
-Witness Statements: Victims testified about the financial hardships they endured as a result of the identity theft. Bank officials also provided testimony on security protocols and how Smith bypassed them.
-Verdict: Jane Smith was found guilty and sentenced to 15 years in state prison, with a significant portion of her assets seized to compensate the victims.
+Cargos: Robo de Identidad y Fraude
+Resumen:
+Antecedentes: Jane Smith, una exempleada bancaria, accedió a la información personal de más de 150 clientes y utilizó estos datos para abrir cuentas de crédito fraudulentas, lo que resultó en más de $750,000 en cargos no autorizados.
+Argumentos Legales: La fiscalía presentó evidencia que mostraba el acceso directo de Smith a la información de las víctimas y su participación en la transferencia de fondos a sus propias cuentas. La defensa argumentó que Smith fue coaccionada por un tercero desconocido y no era la autora intelectual de la operación.
+Declaraciones de Testigos: Las víctimas testificaron sobre las dificultades financieras que sufrieron como resultado del robo de identidad. Funcionarios del banco también testificaron sobre los protocolos de seguridad y cómo Smith los evadió.
+Veredicto: Jane Smith fue declarada culpable y sentenciada a 15 años de prisión estatal, con una porción significativa de sus activos confiscada para compensar a las víctimas.
