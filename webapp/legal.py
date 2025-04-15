@@ -12,5 +12,5 @@ from langchain_core.messages import HumanMessage, SystemMessage
 
 
 # Connect to resourse needed from Google Cloud
-llm = VertexAI(model_name="gemini-1.5-flash-002")
+llm = VertexAI(model_name="gemini-2.0-flash")
 
