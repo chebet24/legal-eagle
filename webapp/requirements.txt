@@ -5,3 +5,5 @@ langchain
 langchain_google_vertexai
 langchain-community
 langchain-google-firestore
+
+
